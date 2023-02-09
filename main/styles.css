@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(0, 0, 0);
+  background-image: "images/bg_stars.gif";
+  color: rgb(255, 0, 0);
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+
+}
+
+.planet_bball {
+
+}
+
+.nav_circle {
+  display: flex;
+
+}
